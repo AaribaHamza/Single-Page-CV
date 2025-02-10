@@ -1,5 +1,6 @@
 CV Project
 Project Overview: 
+<br>
 This project involves creating a single-page Curriculum Vitae (CV) using only HTML. The primary objective is to learn how to structure a CV semantically and prepare it for future styling. The project covers essential aspects such as semantic HTML, SEO meta tags, Open Graph (OG) tags for social media sharing, and the inclusion of a favicon.
 
 Project Requirements
